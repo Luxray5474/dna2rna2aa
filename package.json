@@ -1,6 +1,6 @@
 {
   "name": "dna2rna2aa",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A CLI application that transcribes DNA into mRNA and the resulting Amino Acid chain.",
   "main": "./bin/index.js",
   "scripts": {
