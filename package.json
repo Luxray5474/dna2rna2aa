@@ -2,13 +2,16 @@
   "name": "dna2rna2aa",
   "version": "1.0.0",
   "description": "A CLI application that transcribes DNA into mRNA and the resulting Amino Acid chain.",
-  "main": "index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Luxray5474/dna2rna2aa.git"
+  },
+  "bin": {
+    "yodl": "./bin/index.js"
   },
   "keywords": [
     "dna",

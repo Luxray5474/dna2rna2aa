@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var dna = process.argv[2].split("");
 var mRNA = [], aa = [], aco = [];
 
