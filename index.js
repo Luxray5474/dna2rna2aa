@@ -1,5 +1,4 @@
 var dna = process.argv[2].split("");
-var arg = process.argv[3];
 var mRNA = [], aa = [], aco = [];
 
 var transCribeLate = function(iBs, oBs, iBa, outArr) {
