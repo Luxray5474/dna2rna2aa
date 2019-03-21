@@ -33,7 +33,7 @@ if(dna.length % 3 == 0) {
       ["AAA","AAG",],["AUG"],["UUC","UUU"],//  Lys, Met START, Phe
       ["CCA","CCG","CCU","CCC"],//             Pro
       ["AGC","AGU","UCA","UCG","UCC","UCU"],// Ser
-      ["ACA","ACG","ACU"],//                   Thr
+      ["ACA","ACC","ACG","ACU"],//             Thr
       ["UGG"],["UAC","UAU"],//                 Trp
       ["GUA","GUG","GUC","GUU"],//             Tyr
       ["UAG"],["UAA"],["UGA"]//                Amb STOP, Och STOP, Opa STOP
